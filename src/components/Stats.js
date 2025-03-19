@@ -52,7 +52,7 @@ const Stats = (
           userId: uid
         })
         .then((res) => {
-          toast.success("User successfully stored in DataBase", {
+          toast.success("User successfully stored in Database", {
             position: "top-right",
             autoClose: 5000,
             hideProgressBar: false,
