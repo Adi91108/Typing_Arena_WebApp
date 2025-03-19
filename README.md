@@ -1,4 +1,3 @@
-# Deployment Link = https://typing-arena-adi.netlify.app/
 # Typing Arena - Typing Speed Test Platform
 
 🚀 [Live Demo](https://typing-arena-adi.netlify.app/)
