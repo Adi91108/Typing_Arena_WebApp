@@ -1,6 +1,6 @@
 # Typing Arena - Typing Speed Test Platform
 
-🚀 [Live Demo](https://typing-arena-adi.netlify.app/)
+🚀 [Live Demo](https://typing-arena-web-app.vercel.app/)
 
 ## 📚 Description
 
@@ -44,8 +44,8 @@
 
 ## 🌐 Project Links
 
-- **Live Demo**: [TypeMasterApp.com](https://typing-arena-adi.netlify.app/)  
-- **Frontend Codebase**: [GitHub Repository](https://github.com/Adi91108/Typing-Arena)  
+- **Live Demo**: [TypeMasterApp.com](https://typing-arena-web-app.vercel.app/)  
+- **Frontend Codebase**: [GitHub Repository](https://github.com/Adi91108/Typing_Arena_WebApp)  
 <!-- Replace the link above with your actual GitHub repo URL -->
 
 ---
